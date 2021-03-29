@@ -11,4 +11,6 @@ public class Test {
     private String address;
     //工资
     private String salary;
+    //老板
+    private String boss;
 }
