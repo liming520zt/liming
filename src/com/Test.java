@@ -7,4 +7,6 @@ public class Test {
     private String age;
     //性别
     private String sex;
+    //工资
+    private String salary;
 }
