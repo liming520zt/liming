@@ -5,4 +5,6 @@ public class Test {
     private String name;
     //年龄
     private String age;
+    //性别
+    private String sex;
 }
