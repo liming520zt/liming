@@ -1,5 +1,6 @@
 package com;
 
 public class Test {
-    private String naem;
+    private String name;
+    private String sex;
 }
