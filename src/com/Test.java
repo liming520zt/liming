@@ -9,4 +9,6 @@ public class Test {
     private String sex;
     //增加住址
     private String address;
+    //工资
+    private String salary;
 }
