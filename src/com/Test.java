@@ -7,4 +7,6 @@ public class Test {
     private String age;
     //增加性别属性
     private String sex;
+    //增加住址
+    private String address;
 }
